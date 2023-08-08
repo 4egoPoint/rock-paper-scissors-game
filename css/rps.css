@@ -1,0 +1,75 @@
+body {
+  background: url(/img/deep-blue-wallpaper.jpg);
+}
+
+.container {
+  margin: 0 auto;
+  width: 600px;
+  height: 500px;
+  color: white;
+  border: 3px solid gray;
+  padding: 20px;
+}
+
+.game-winer {
+  padding: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.win {
+  background-color: lightgreen;
+}
+
+.lose {
+  background-color: red;
+}
+
+.tie {
+  background-color: gray;
+}
+
+.sircle-btn {
+  border-radius: 50%;
+  border: none;
+}
+
+.sircle-img {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+}
+
+.score {
+  font-size: 25px;
+}
+
+.auto-mode {
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.balans {
+  background-color: black;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  border-radius: 10px;
+}
+
+.money {
+  margin-right: 20px;
+  height: 65px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  background-color: white;
+}
+
+.reset {
+  font-size: 20px;
+  padding: 10px 20px;
+}/*# sourceMappingURL=rps.css.map */
